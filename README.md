@@ -1,3 +1,8 @@
+Fork: Corrected a bug in the calculation of the MD5 hash.
+
+
+
+
 genthumbs
 =========
 
